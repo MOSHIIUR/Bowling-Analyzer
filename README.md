@@ -31,7 +31,7 @@ root_folder = r'G:\DL_enigma\Bowling-Analyzer\Data'
 players = ['Mitchell Starc']
 
 bowling_action = 'Front'  # Choose from: [SideOn][Rear][Front] angle
-movement = 'Left Knee Angle'  # Handl, Truck, etc. Choose the movement you want to analyze more 
+movement = 'Left Knee Angle'  # Hand Movement, Trunk Fexion, etc. Choose the movement you want to analyze. [Landmarks given in the code cell]
 keypoints = ['x_23', 'y_23', 'x_25', 'y_25', 'x_27', 'y_27']  # Specify the keypoints
 
 player = CricketAnalyzer(root_folder, players, bowling_action, movement, keypoints)
