@@ -9,5 +9,6 @@
   <img src="https://github.com/MOSHIIUR/Bowling-Analyzer/blob/main/Data/readme/right_knee.png" alt="plot 2" width="400"/>
 </p>
 
-## More details to be followed
+## More details on the code to be followed......
+
 
